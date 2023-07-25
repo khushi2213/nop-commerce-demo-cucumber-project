@@ -1,0 +1,249 @@
+2023-07-22 14:07:718 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (3c19d8862bea9d8599585057d7a646a2)] -> link text: Log in]
+2023-07-22 14:07:758 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on windows (3c19d8862bea9d8599585057d7a646a2)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-07-22 14:07:92 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (25bb3286af659c781a43d846a8f99990)] -> link text: Log in]
+2023-07-22 14:07:133 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on windows (25bb3286af659c781a43d846a8f99990)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-07-22 15:07:11 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (5d845a58944d47cc56260cd145e8e330)] -> link text: Log in]
+2023-07-22 15:07:56 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on windows (5d845a58944d47cc56260cd145e8e330)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-07-22 15:07:436 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (a780f50098b22764538d777582d8c634)] -> link text: Log in]
+2023-07-22 15:07:871 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (ffb7c26f8e2a49779f3a35787c8ad724)] -> link text: Log in]
+2023-07-22 15:07:749 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (5b6e0f1b7c586b1e7bc88dbc47128756)] -> link text: Log in]
+2023-07-22 15:07:464 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (0caf78d519e5d2fefcf2e1c585447694)] -> link text: Log in]
+2023-07-22 15:07:470 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (07a11bb936e86546deaa30325df4be77)] -> link text: Log in]
+2023-07-22 15:07:519 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on windows (07a11bb936e86546deaa30325df4be77)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-07-22 16:07:391 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (73891cd733d572709d238667147a1c70)] -> link text: Log in]
+2023-07-22 16:07:443 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on windows (73891cd733d572709d238667147a1c70)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-07-22 16:07:184 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (07e1951250427669d26c57285124d5bd)] -> link text: Log in]
+2023-07-22 16:07:400 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (b3cc7b913058207e084965e7850733e5)] -> link text: Log in]
+2023-07-22 16:07:194 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (d54f87a3efd38c96aade358e4c7dff40)] -> link text: Log in]
+2023-07-22 16:07:410 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (1f12bb64bf1c00082bc9ec07515e86fb)] -> link text: Log in]
+2023-07-25 17:07:532 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:418 INFO  LoginPage :37 - Getting welcome text Welcome, Please Sign In!<br>
+2023-07-25 17:07:95 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:20 INFO  LoginPage :76 - Get registerText : Register<br>
+2023-07-25 17:07:860 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:759 INFO  LoginPage :44 - Enter email qwerty123@gmail.com to email field <br>
+2023-07-25 17:07:864 INFO  LoginPage :50 - Enter password qazwsx12 to password field <br>
+2023-07-25 17:07:157 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:258 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:246 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:95 INFO  LoginPage :44 - Enter email xyz890@gmail.com to email field <br>
+2023-07-25 17:07:183 INFO  LoginPage :50 - Enter password qazwsx to password field <br>
+2023-07-25 17:07:495 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:537 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:37 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:913 INFO  LoginPage :44 - Enter email qwerty@gmail.com to email field <br>
+2023-07-25 17:07:991 INFO  LoginPage :50 - Enter password qwerty123 to password field <br>
+2023-07-25 17:07:350 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:394 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:51 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:419 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:74 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:515 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:647 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:432 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:729 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:499 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:868 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:654 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:767 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:631 INFO  LoginPage :37 - Getting welcome text Welcome, Please Sign In!<br>
+2023-07-25 17:07:561 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:441 INFO  LoginPage :76 - Get registerText : Register<br>
+2023-07-25 17:07:139 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:03 INFO  LoginPage :44 - Enter email qwerty123@gmail.com to email field <br>
+2023-07-25 17:07:81 INFO  LoginPage :50 - Enter password qazwsx12 to password field <br>
+2023-07-25 17:07:402 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:441 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:973 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:825 INFO  LoginPage :44 - Enter email xyz890@gmail.com to email field <br>
+2023-07-25 17:07:907 INFO  LoginPage :50 - Enter password qazwsx to password field <br>
+2023-07-25 17:07:664 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:708 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:435 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:308 INFO  LoginPage :44 - Enter email qwerty@gmail.com to email field <br>
+2023-07-25 17:07:384 INFO  LoginPage :50 - Enter password qwerty123 to password field <br>
+2023-07-25 17:07:707 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:746 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:609 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:402 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:477 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:308 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:184 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:959 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:608 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:398 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:149 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:504 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:157 INFO  LoginPage :90 - Click on 'Computers' tab <br>
+2023-07-25 17:07:83 INFO  LoginPage :27 - Get pageTitle text : Computers<br>
+2023-07-25 17:07:362 INFO  LoginPage :90 - Click on 'Computers' tab <br>
+2023-07-25 17:07:213 INFO  LoginPage :35 - Click on 'Desktops' link <br>
+2023-07-25 17:07:642 INFO  LoginPage :55 - Click on product 'Build your own computer' : Build your own computer<br>
+2023-07-25 17:07:134 INFO  LoginPage :57 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'<br>
+2023-07-25 17:07:210 INFO  LoginPage :63 - Select RAM '2 GB'<br>
+2023-07-25 17:07:282 INFO  LoginPage :71 - Select HDD '320 GB'<br>
+2023-07-25 17:07:331 INFO  LoginPage :82 - Select HDD 'Vista Home [+$50.00]'<br>
+2023-07-25 17:07:382 INFO  LoginPage :93 - Select Software '[[ChromeDriver: chrome on windows (93f85be3f6050db9535cac9e02889c54)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2023-07-25 17:07:440 INFO  LoginPage :102 - Click on 'ADD TO CART' Button<br>
+2023-07-25 17:07:143 INFO  LoginPage :108 - Get productAdded Message : The product has been added to your shopping cart<br>
+2023-07-25 17:07:777 INFO  LoginPage :90 - Click on 'Computers' tab <br>
+2023-07-25 17:07:723 INFO  LoginPage :35 - Click on 'Desktops' link <br>
+2023-07-25 17:07:89 INFO  LoginPage :55 - Click on product 'Build your own computer' : Build your own computer<br>
+2023-07-25 17:07:97 INFO  LoginPage :57 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2023-07-25 17:07:171 INFO  LoginPage :63 - Select RAM '4GB [+$20.00]'<br>
+2023-07-25 17:07:232 INFO  LoginPage :71 - Select HDD '400 GB [+$100.00]'<br>
+2023-07-25 17:07:289 INFO  LoginPage :82 - Select HDD 'Vista Premium [+$60.00]'<br>
+2023-07-25 17:07:337 INFO  LoginPage :93 - Select Software '[[ChromeDriver: chrome on windows (27ffa54cba7e059d467cff90dc5a3376)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2023-07-25 17:07:377 INFO  LoginPage :102 - Click on 'ADD TO CART' Button<br>
+2023-07-25 17:07:89 INFO  LoginPage :108 - Get productAdded Message : The product has been added to your shopping cart<br>
+2023-07-25 17:07:919 INFO  LoginPage :90 - Click on 'Computers' tab <br>
+2023-07-25 17:07:772 INFO  LoginPage :35 - Click on 'Desktops' link <br>
+2023-07-25 17:07:173 INFO  LoginPage :55 - Click on product 'Build your own computer' : Build your own computer<br>
+2023-07-25 17:07:583 INFO  LoginPage :57 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2023-07-25 17:07:656 INFO  LoginPage :63 - Select RAM '8GB [+$60.00]'<br>
+2023-07-25 17:07:708 INFO  LoginPage :71 - Select HDD '320 GB'<br>
+2023-07-25 17:07:796 INFO  LoginPage :93 - Select Software '[[ChromeDriver: chrome on windows (10c4dddcc51d8d549b5f70670099d7c6)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2023-07-25 17:07:837 INFO  LoginPage :102 - Click on 'ADD TO CART' Button<br>
+2023-07-25 17:07:503 INFO  LoginPage :108 - Get productAdded Message : The product has been added to your shopping cart<br>
+2023-07-25 17:07:116 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:910 INFO  LoginPage :37 - Getting welcome text Welcome, Please Sign In!<br>
+2023-07-25 17:07:559 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:533 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:529 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:137 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:424 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:962 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:742 INFO  LoginPage :76 - Get registerText : Register<br>
+2023-07-25 17:07:386 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:213 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:42 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:396 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:682 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:08 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:694 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:49 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:790 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:535 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:222 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:351 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:176 INFO  LoginPage :37 - Getting welcome text Welcome, Please Sign In!<br>
+2023-07-25 17:07:122 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:968 INFO  LoginPage :76 - Get registerText : Register<br>
+2023-07-25 17:07:176 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:733 INFO  LoginPage :44 - Enter email priya123@gmail.com to email field <br>
+2023-07-25 17:07:799 INFO  LoginPage :50 - Enter password abcde12 to password field <br>
+2023-07-25 17:07:191 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:226 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:965 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:861 INFO  LoginPage :44 - Enter email abc123@gmail.com to email field <br>
+2023-07-25 17:07:947 INFO  LoginPage :50 - Enter password abcde to password field <br>
+2023-07-25 17:07:285 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:325 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:128 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:559 INFO  LoginPage :44 - Enter email xyz123@gmail.com to email field <br>
+2023-07-25 17:07:641 INFO  LoginPage :50 - Enter password abcd123 to password field <br>
+2023-07-25 17:07:994 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:31 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:818 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:653 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:379 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:179 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:809 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:160 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:880 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:711 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:908 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:683 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:217 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:470 INFO  LoginPage :44 - Enter email priya123@gmail.com to email field <br>
+2023-07-25 17:07:534 INFO  LoginPage :50 - Enter password abcde12 to password field <br>
+2023-07-25 17:07:848 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:878 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:749 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:618 INFO  LoginPage :44 - Enter email abc123@gmail.com to email field <br>
+2023-07-25 17:07:696 INFO  LoginPage :50 - Enter password abcde to password field <br>
+2023-07-25 17:07:999 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:36 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:377 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:218 INFO  LoginPage :44 - Enter email xyz123@gmail.com to email field <br>
+2023-07-25 17:07:282 INFO  LoginPage :50 - Enter password abcd123 to password field <br>
+2023-07-25 17:07:584 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:624 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:767 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:638 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:972 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:800 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:542 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:383 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:351 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:728 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:604 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:11 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:536 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:410 INFO  LoginPage :44 - Enter email qwerty123@gmail.com to email field <br>
+2023-07-25 17:07:481 INFO  LoginPage :50 - Enter password qazwsx12 to password field <br>
+2023-07-25 17:07:795 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:828 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:275 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:114 INFO  LoginPage :44 - Enter email xyz890@gmail.com to email field <br>
+2023-07-25 17:07:177 INFO  LoginPage :50 - Enter password qazwsx to password field <br>
+2023-07-25 17:07:492 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:531 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:240 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:62 INFO  LoginPage :44 - Enter email qwerty@gmail.com to email field <br>
+2023-07-25 17:07:133 INFO  LoginPage :50 - Enter password qwerty123 to password field <br>
+2023-07-25 17:07:447 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:489 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:155 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:978 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:680 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:448 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:290 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:634 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:329 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:117 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:420 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:808 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:507 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:323 INFO  LoginPage :44 - Enter email qwerty123@gmail.com to email field <br>
+2023-07-25 17:07:383 INFO  LoginPage :50 - Enter password qazwsx12 to password field <br>
+2023-07-25 17:07:675 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:715 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:334 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:172 INFO  LoginPage :44 - Enter email xyz890@gmail.com to email field <br>
+2023-07-25 17:07:247 INFO  LoginPage :50 - Enter password qazwsx to password field <br>
+2023-07-25 17:07:535 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:568 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:231 INFO  LoginPage :42 - Clicking on login link Log in<br>
+2023-07-25 17:07:674 INFO  LoginPage :44 - Enter email qwerty@gmail.com to email field <br>
+2023-07-25 17:07:734 INFO  LoginPage :50 - Enter password qwerty123 to password field <br>
+2023-07-25 17:07:43 INFO  LoginPage :56 - Clicking on Login Button <br>
+2023-07-25 17:07:78 INFO  LoginPage :62 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-07-25 17:07:268 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:57 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:768 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:538 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:836 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:600 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:309 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:65 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
+2023-07-25 17:07:299 INFO  LoginPage :55 - Clicking on register link Register<br>
+2023-07-25 17:07:57 INFO  LoginPage :130 - Click on 'REGISTER' button<br>
